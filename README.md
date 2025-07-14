@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**shreyarani01/shreyarani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ hey there, i'm shreya! 🐍
 
-Here are some ideas to get you started:
+💻 beginner-friendly coder, python lover & creative thinker  
+🌸 currently learning how to build cool stuff with code  
+☕ fueled by curiosity & coffee  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 things i enjoy:
+- writing clean python code  
+- building little projects just for fun  
+- learning github (one commit at a time 🐢)  
+- exploring tech in a chill, pressure-free way  
+
+---
+
+## 🧰 tools i like:
+- python  
+- vs code  
+- git & github  
+- stackoverflow (my second home)
+
+---
+
+*still figuring it out. and that’s okay.* 🍃
