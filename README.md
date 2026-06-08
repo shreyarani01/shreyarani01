@@ -1,28 +1,31 @@
-# Hi, I'm Shreya :)
+# Hi, I'm Shreya 👋
 
-I'm a Computer Science student passionate about learning through building projects and contributing to open source.
+I'm a Computer Science student passionate about building projects, solving problems, and contributing to open source.
 
-I enjoy exploring Python, Data Structures & Algorithms, Web Development, and Supervised Machine Learning while continuously improving my problem-solving skills and Git/GitHub workflow.
+I enjoy exploring Data Structures & Algorithms and Machine Learning while continuously improving my programming skills and Git/GitHub workflow.
 
-🌱 Currently learning and building projects in Python and Machine Learning.
+🌱 Currently learning and building projects in Python and Supervised Machine Learning.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 - Python
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - SQL
+- Supervised Machine Learning
 - Jupyter Notebook
 - VS Code
 - Git & GitHub
 
-### 📚 Interests
+## 📚 Areas of Interest
+
 - Data Structures & Algorithms
 - Web Development
-- Supervised Machine Learning
+- Machine Learning
 - Open Source Contributions
 
-Always curious, persistent, and eager to learn new technologies and become a better programmer.
+I believe in learning by building, staying curious, and continuously growing as a developer.
 
 Thanks for visiting my profile! 😊
