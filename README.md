@@ -42,16 +42,3 @@ I enjoy exploring Data Structures & Algorithms, Machine Learning, and Web Develo
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Shreya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Stay curious, keep building, and never stop learning."</i><br>
-  <b>Thanks for stopping by! ✨</b>
-</p>
